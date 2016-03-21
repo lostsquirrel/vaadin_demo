@@ -1,2 +1,0 @@
-# Module test.vaadin.vaadin_demo.MyAppWidgetset
-# RPC service class, partial path of RPC policy file
